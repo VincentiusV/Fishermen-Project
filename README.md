@@ -19,5 +19,3 @@ The dataset consists of the following features:
   - Represents the total number of ships owned by the fishing company.
 - **Fraudulent Activity:**
   - Binary indicator (0 or 1) representing whether the activity is fraudulent or not.
-
-
